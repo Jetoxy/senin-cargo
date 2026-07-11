@@ -1,4 +1,4 @@
-<p align="center"><img src="https://senin.site/img/senin-logo.png" width="120" alt="Senin Cargo"></p>
+<p align="center"><img src="https://senin.site/img/senin-logo.png" width="300" alt="Senin Cargo"></p>
 
 # Senin Cargo
 
